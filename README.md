@@ -1,1 +1,1 @@
-# Linux-for-Cybersecurity-Professionals
+# Linux for Cybersecurity Professionals
