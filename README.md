@@ -1,6 +1,34 @@
 # Linux for Cybersecurity Professionals
 
+## Bash Script
+
+### Automated Network Host Discovery and Basic Port Scan
+
+This script automates the initial steps of network reconnaissance: finding live hosts and performing a quick scan for common open ports. This is particularly useful when assessing a new network environment, as it quickly provides an overview of active systems and their potentially accessible services.
+
+### Real-time Log Monitoring for Specific Keywords
+
+This script provides a way to monitor log files in real-time for user-defined keywords, which is crucial for immediate detection of suspicious activities or critical errors. Early detection enables faster response, potentially mitigating the impact of security incidents.
+
+### User Account Security Audit
+
+Regularly auditing user accounts for security weaknesses is a fundamental aspect of system hardening and compliance. This script automates checks for common misconfigurations.
+
+### Simple File Integrity Checker (fim.sh)
+
+File Integrity Monitoring (FIM) is a critical security control that involves validating the integrity of operating system and application software files to detect unauthorized modifications. This script provides a basic FIM capability.
+
+### Firewall Rule Lister
+
+Firewalls are a primary defense mechanism. Regularly reviewing their rules ensures they are correctly configured and have not been tampered with or inadvertently weakened. This script helps in quickly displaying the current firewall configuration.
+
+### Basic Incident Response Data Collector
+
+During a security incident, rapidly collecting volatile system data is paramount before it is lost or altered by attacker actions or system reboots. This script automates the gathering of initial, critical information.
+
 ## Basic Commands
+
+Cybersecurity is a multifaceted field, and Linux provides a rich ecosystem of command-line utilities that cater to its diverse domains. Understanding and effectively utilizing these commands is paramount for professionals seeking to conduct thorough security assessments, investigations, and defensive operations.
 
 ### Network Reconnaissance
 
