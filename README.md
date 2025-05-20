@@ -1,6 +1,6 @@
 # Linux for Cybersecurity Professionals
 
-## Bash Script
+## Bash Scripts
 
 ### Automated Network Host Discovery and Basic Port Scan
 
